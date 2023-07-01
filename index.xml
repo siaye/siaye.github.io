@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jul 2023 13:51:39 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 15:17:13 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Problems</title>
+      <link>/posts/problems/</link>
+      <pubDate>Sat, 01 Jul 2023 15:17:13 +0800</pubDate>
+      
+      <guid>/posts/problems/</guid>
+      <description>
+        
+          
+            #我在搭建博客时遇到的问题 1、在没有配置环境变量的时候在命令行执行 hugo version 出现错误，后来配置了环境变量解决了问题 2、在将博客仓库上传至GitHub这一步中，因为之前创建过仓库所以无法 publish repository，在咨询过学长后删除了原有的仓库，解决了问题。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstBlog</title>
       <link>/posts/myfirstblog/</link>
